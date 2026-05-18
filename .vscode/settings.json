@@ -1,0 +1,7 @@
+{
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "files.exclude": {
+        "**/.git": false,
+        
+    }
+}
